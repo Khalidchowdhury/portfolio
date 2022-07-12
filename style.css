@@ -1,0 +1,11 @@
+
+/* Contact form css file is start here */
+
+.card-body {
+    margin: 20px;
+    border: 0px solid black;
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 9px 23px 20px 11px;
+}
